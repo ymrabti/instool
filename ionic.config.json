@@ -1,0 +1,8 @@
+{
+  "name": "instool",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dc10f891"
+}
